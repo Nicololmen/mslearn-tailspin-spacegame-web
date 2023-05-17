@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ordina-datadriven/YPP%20-%20NelsonLab/_apis/build/status%2FNicololmen.mslearn-tailspin-spacegame-web?branchName=build-pipeline)](https://dev.azure.com/ordina-datadriven/YPP%20-%20NelsonLab/_build/latest?definitionId=94&branchName=build-pipeline)
 
 # Contributing
 
